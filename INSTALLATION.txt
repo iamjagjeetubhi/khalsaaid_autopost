@@ -1,0 +1,12 @@
+pip install python-decouple && pip install django && pip install mysqlclient && pip install -U instabot && pip install pillow && sudo apt-get install libmysqlclient-dev
+
+103 print("success") 
+107 print("failed")
+env/lib/python3.5/site-packages/instabot/bot/limits.py
+python manage.py runserver --nothreading --noreload 
+174         if super(Bot, self).login(**args) is True:
+175             return True
+/instabot/bot/bot.py
+161 comment
+pip install instabot==0.3.3.21
+pip install PyYAML
